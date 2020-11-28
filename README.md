@@ -1,0 +1,2 @@
+# snackeat
+A simple game.
